@@ -81,7 +81,7 @@ python main.py --mode train --attn sketch_exp_kernel --task lra-text
 ```
 
 - mode: `train`, `eval`
-- attn: `softmax`, `linformer`, `performer`, `exp_kernel`, `sketch_exp_kernel`, `sketch_exp_kernel_resid`
+- attn: `softmax`, `linformer`, `performer`, `exp_kernel`, `sketch_exp_kernel`, `rsketch_exp_kernel`
 - task: `lra-listops`, `lra-pathfinder`, `lra-retrieval`, `lra-text`, `lra-image`
 
 
