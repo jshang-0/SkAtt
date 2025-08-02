@@ -1,5 +1,4 @@
-# Sketching-Attentions-with-Lower-Linear-Complexity-for-Long-Sequence-Problems
-This repository is the implementation for the paper "Sketching Attentions with Lower Linear Complexity for Long Sequence Problems"
+
 
 
 ## Requirements
